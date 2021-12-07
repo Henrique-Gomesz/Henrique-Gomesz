@@ -1,8 +1,8 @@
 ## Olá, bem-vindo ao meu github aproveite!
 </div>
   <a href="https://github.com/Henrique-Gomesz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henrique-Gomesz&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Gomesz&layout=compact&langs_count=7&theme=shades-of-purple"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Henrique-Gomesz&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Gomesz&layout=compact&langs_count=7&theme=shades-of-purple"/>
 </div>
 
 <div style="display: inline_block"><br>
