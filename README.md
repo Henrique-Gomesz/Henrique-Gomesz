@@ -1,4 +1,6 @@
-## Olá, bem-vindo ao meu github aproveite!
+## Olá, seja bem-vindo ao meu github!
+ 🎓 - Estudando Sistemas de Informações na FIPP
+
 </div>
   <a href="https://github.com/Henrique-Gomesz">
   <img height="142em" src="https://github-readme-stats.vercel.app/api?username=Henrique-Gomesz&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
