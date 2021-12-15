@@ -1,4 +1,4 @@
-## Olá, seja bem-vindo ao meu Github!
+## Olá, seja bem-vindo ao meu GitHub!
 
 </div>
   <a href="https://github.com/Henrique-Gomesz">
