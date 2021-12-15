@@ -1,5 +1,4 @@
 ## Olá, seja bem-vindo ao meu Github!
- 🎓 - Estudando Sistemas de Informações na FIPP
 
 </div>
   <a href="https://github.com/Henrique-Gomesz">
