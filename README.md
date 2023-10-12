@@ -1,12 +1,7 @@
-## Olá, seja bem-vindo ao meu GitHub!
+# Desenvolvedor full-stack web/mobile
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Gomesz&layout=compact)
 
-</div>
-  <a href="https://github.com/Henrique-Gomesz">
-  <img height="142em" src="https://github-readme-stats.vercel.app/api?username=Henrique-Gomesz&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
-  <img height="142em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Gomesz&layout=compact&langs_count=7&theme=shades-of-purple"/>
-</div>
-
-<div style="display: inline_block"> Técnologias conhecidas<br>
+<div style="display: inline_block"> Tech Stack<br>
 
   <img align="center" alt="Gomes-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Gomes-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
@@ -16,8 +11,9 @@
   <img align="center" alt="Gomes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gomes-Js" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
    <img align="center" alt="Gomes-Js" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
- 
-  
+   <img align="center" alt="Gomes-Js" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png">
+      <img align="center" alt="Gomes-Js" height="40" width="40" src="https://img.icons8.com/?size=256&id=hsPbhkOH4FMe&format=png">
+
   
   <br>
   
