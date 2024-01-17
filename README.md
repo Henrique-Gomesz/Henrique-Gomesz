@@ -1,4 +1,3 @@
-
 <p align="center">
   <a href="https://github.com/Henrique-Gomesz">
     <img src="https://cdn.discordapp.com/attachments/296798533355569162/1197027967981850744/Novo_Projeto.png?ex=65b9c62b&is=65a7512b&hm=3b124688afe2f19a042158895c711c6bf89348b0b6e271322c8f8c1f442c8037&" alt="Henrique Gomes" /> 
@@ -10,6 +9,11 @@
   <a href="https://github.com/Henrique-Gomesz">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=00E447&vCenter=true&pause=1000&size=22" /></a>
 </p>
+<div align="center" >
+  
+   <a href="https://github.com/Henrique-Gomesz">
+    <img  height="200" width="500" src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU0NjU1NzIsIm5iZiI6MTcwNTQ2NTI3MiwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTE3VDA0MjExMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE3MTdmODAwZWQxZTM2N2Y4ZmU5OTEwMWZjMTQzN2NmYzdkMGZlMjZkOTVjMjc5OThiMzc0YWYwMWY0ZjEzODcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.unOQWCCNt6FzrZHW6UzsjKpXQpTmE6YIyhiKNJy96X0" /></a>
+</div>
 
 ## About Me 🚀
 - Dedicated
