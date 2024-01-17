@@ -1,6 +1,9 @@
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1">
-    <img src="https://cdn.discordapp.com/attachments/296798533355569162/1197027967981850744/Novo_Projeto.png?ex=65b9c62b&is=65a7512b&hm=3b124688afe2f19a042158895c711c6bf89348b0b6e271322c8f8c1f442c8037&" alt="Jonah Lawrence" /></a>
+  <a href="https://github.com/Henrique-Gomesz">
+    <img src="https://cdn.discordapp.com/attachments/296798533355569162/1197027967981850744/Novo_Projeto.png?ex=65b9c62b&is=65a7512b&hm=3b124688afe2f19a042158895c711c6bf89348b0b6e271322c8f8c1f442c8037&" alt="Henrique Gomes" /> 
+  </a> 
+  
 </p>
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -13,7 +16,7 @@
 - Passionate about learn new things.
 - Game dev in free times
 
-## Skills 🛠️
+## Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 <div style="display: inline_block">
   <img align="center" alt="Gomes-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gomes-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
