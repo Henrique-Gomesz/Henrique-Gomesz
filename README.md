@@ -13,7 +13,7 @@
 
 ## About Me 🚀
 - Dedicated
-- Passionate about learn new things.
+- Passionate about learning new things.
 - Game dev in free times
 
 ## Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
