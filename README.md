@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Henrique-Gomesz">
-    <img src="https://cdn.discordapp.com/attachments/296798533355569162/1197027967981850744/Novo_Projeto.png?ex=66039a2b&is=65f1252b&hm=0a7ccfe9236a817482ef9513abd115a38a5ae19734da8115111619d95716848a&" alt="Henrique Gomes" /> 
+    <img src="https://drive.usercontent.google.com/u/2/uc?id=1qVilEHNffO8bsru9G32ihw_2gpN0OG8v&export=download" /> 
   </a> 
   
 </p>
